@@ -1,6 +1,6 @@
 {
   "name": "seo-sitemap-ping",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight NPM package to submit XML sitemaps to Google and Bing search engines",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -50,10 +50,10 @@
   "homepage": "https://www.fastseofix.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fastseofix/seo-sitemap-ping.git"
+    "url": "https://github.com/StefanWinterToo/seo-sitemap-ping.git"
   },
   "bugs": {
-    "url": "https://github.com/fastseofix/seo-sitemap-ping/issues"
+    "url": "https://github.com/StefanWinterToo/seo-sitemap-ping/issues"
   },
   "engines": {
     "node": ">=16.0.0"

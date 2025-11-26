@@ -284,7 +284,7 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 - **NPM Package:** [https://www.npmjs.com/package/sitemap-ping](https://www.npmjs.com/package/sitemap-ping)
 - **FastSEOFix:** [https://www.fastseofix.com](https://www.fastseofix.com)
-- **Issues:** [https://github.com/fastseofix/sitemap-ping/issues](https://github.com/fastseofix/sitemap-ping/issues)
+- **Issues:** [https://github.com/StefanWinterToo/seo-sitemap-ping/issues](https://github.com/StefanWinterToo/seo-sitemap-ping/issues)
 
 ## Related Resources
 
