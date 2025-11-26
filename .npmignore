@@ -1,0 +1,34 @@
+# Source files
+src/
+tests/
+
+# Configuration files
+tsconfig*.json
+jest.config.js
+.eslintrc.json
+.prettierrc
+
+# Development files
+.git/
+.gitignore
+.github/
+
+# Test and coverage
+coverage/
+*.test.ts
+
+# Documentation (keep README)
+# README.md is included by default
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

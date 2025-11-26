@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm cache clean:*)",
+      "Bash(sudo chown:*)",
+      "Bash(npm run build:*)",
+      "Bash(chmod:*)",
+      "Bash(npm test:*)",
+      "Bash(npm run test:coverage:*)",
+      "Bash(tree:*)",
+      "Bash(npm pack:*)",
+      "Bash(./bin/sitemap-ping.js:*)",
+      "Bash(npx seo-sitemap-ping:*)",
+      "Bash(npm version:*)",
+      "Bash(curl:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
